@@ -26,9 +26,9 @@ public class AuthService {
      */
     public static String getAuth() {
         // 官网获取的 API Key 更新为你注册的
-        String clientId = "oYXSD8TC26cozlgoV2adfIA4";
+        String clientId = "xxx";
         // 官网获取的 Secret Key 更新为你注册的
-        String clientSecret = "glxoBwkOF4vNacz6uQBe4DAvT7ySEeAM";
+        String clientSecret = "xxx";
         return getAuth(clientId, clientSecret);
     }
 
