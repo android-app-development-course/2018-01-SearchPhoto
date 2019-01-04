@@ -24,6 +24,6 @@ public class OCRUtil {
                 error.printStackTrace();
                 Log.d("tokenfail","得不到token啊");
             }
-        }, context.getApplicationContext(), "oYXSD8TC26cozlgoV2adfIA4", "glxoBwkOF4vNacz6uQBe4DAvT7ySEeAM");
+        }, context.getApplicationContext(), "xxx", "xxx");
     }
 }
